@@ -1,0 +1,44 @@
+IROS 9图4表10公式
+python,tensorflow构建resnet50残差网络,要求：载入一张图片作为输入，经过ResNet的计算，查看每个stage得到的输出。
+
+
+
+
+python -m ipykernel install --user --name YOLO_v5 --display-name YOLO_v5
+
+步骤一：ResNet残差网络
+步骤三：在Keras中实现一个恒等层
+步骤四：代码中定义residual block
+步骤五：构建ResNet50网络
+载入一张图片作为输入，经过ResNet的计算，查看每个stage得到的输出。
+
+
+
+
+
+
+
+
+
+1、ResNet网络结构详解、完整代码实现
+https://blog.csdn.net/qq_39770163/article/details/126169080?spm=1001.2014.3001.5506
+
+
+2、fpn网络结构及代码
+https://blog.csdn.net/sgfsfgs/article/details/129126385?spm=1001.2014.3001.5506
+
+rpn代码模块详解【faster rcnn】（和mask-rcnn不太一样，可做参考）
+https://blog.csdn.net/juanji3798/article/details/126449778?spm=1001.2014.3001.5506
+
+3、MASK RCNN 之RPN
+https://blog.csdn.net/light169/article/details/108274466?spm=1001.2014.3001.5506
+
+4、MaskRCNN源码解析4：头网络(Networks Heads)解析
+https://blog.csdn.net/sxlsxl119/article/details/103433070?spm=1001.2014.3001.5506
+
+5、【代码研读】Mask RCNN代码阅读笔记（一）总览篇
+https://blog.csdn.net/qq_35307005/article/details/102367487?spm=1001.2014.3001.5506
+
+
+
+https://v1.eflink.xyz/api/v1/client/subscribe?token=1e0e5cf72d96074a2383ca9a22ffbcc4
